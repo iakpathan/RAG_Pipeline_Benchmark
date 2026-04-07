@@ -138,7 +138,6 @@ Sign up at [console.groq.com](https://console.groq.com) → API Keys → Create 
 
 ### 4. Create `.env` file
 
->>>>>>> f2e71937b1b02c276b6d3e2f49b16e443a175528
 ```
 GROQ_API_KEY=gsk_your_key_here
 HF_TOKEN=hf_your_token_here
@@ -151,7 +150,6 @@ HuggingFace token: https://huggingface.co/settings/tokens (free account)
 
 ### 5. Run
 
->>>>>>> f2e71937b1b02c276b6d3e2f49b16e443a175528
 ```bash
 python main.py
 ```
@@ -254,4 +252,4 @@ RAGAS is the standard library for RAG evaluation but internally requests `n>1` c
 - Gao et al. (2022) — [Precise Zero-Shot Dense Retrieval without Relevance Labels (HyDE)](https://arxiv.org/abs/2212.10496)
 - Ma et al. (2023) — [Query Rewriting for Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2305.14283)
 - Lewis et al. (2020) — [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
->>>>>>> f2e71937b1b02c276b6d3e2f49b16e443a175528
+
