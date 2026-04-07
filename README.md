@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 # RAG + HyDE Benchmark
 
 Compares Standard RAG, HyDE RAG, and Multi-Query RAG on MS MARCO.
 Fully free — no paid APIs, no GPU required.
 
-## Setup (5 minutes)
+## Setup
 
 ### 1. Clone / copy this folder into VS Code
 
@@ -109,7 +109,7 @@ retrieve top-k        hypothetical doc →        reformulations →
 ### 1. Clone and create virtual environment
 
 ```bash
-git clone https://github.com/yourusername/rag-hyde-benchmark
+git clone https://github.com/iakpathan/RAG_Pipeline_Benchmark
 cd rag-hyde-benchmark
 python -m venv venv
 source venv/bin/activate        # Mac/Linux
@@ -121,7 +121,6 @@ venv\Scripts\activate           # Windows
 pip install -r requirements.txt
 ```
 
-<<<<<<< HEAD
 ### 4. Get your free Groq API key
 - Go to https://console.groq.com
 - Sign up (free)
@@ -140,7 +139,7 @@ Sign up at [console.groq.com](https://console.groq.com) → API Keys → Create 
 GROQ_API_KEY=gsk_your_key_here
 HF_TOKEN=hf_your_token_here
 ```
-<<<<<<< HEAD
+ek
 HuggingFace token: https://huggingface.co/settings/tokens (free account)
 
 ### 6. Run
