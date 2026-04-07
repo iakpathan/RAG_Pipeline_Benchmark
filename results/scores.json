@@ -1,0 +1,17 @@
+{
+  "Standard RAG": {
+    "faithfulness": 0.81,
+    "answer_relevancy": 0.765,
+    "context_precision": 0.76
+  },
+  "HyDE RAG": {
+    "faithfulness": 0.725,
+    "answer_relevancy": 0.665,
+    "context_precision": 0.735
+  },
+  "Multi-Query RAG": {
+    "faithfulness": 0.81,
+    "answer_relevancy": 0.755,
+    "context_precision": 0.76
+  }
+}
